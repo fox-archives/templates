@@ -18,6 +18,7 @@ pub enum Cmd {
 	Add { key: String, value: String },
 	Remove { key: String },
 	List {},
+	InternalCmd,
 }
 
 #[derive(Subcommand, Debug)]

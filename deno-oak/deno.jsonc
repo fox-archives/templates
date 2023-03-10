@@ -1,0 +1,13 @@
+{
+	"imports": {
+		"oak": "https://deno.land/x/oak@v11.1.0/mod.ts"
+	},
+	"fmt": {
+		"options": {
+			"semiColons": false,
+			"lineWidth": 90,
+			"indentWidth": 3,
+			"singleQuote": true
+		}
+	}
+}
