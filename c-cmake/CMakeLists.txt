@@ -12,5 +12,4 @@ set(CMAKE_C_STANDARD_REQUIRED 11)
 
 add_executable(___project_name___ main main.c)
 
-install(TARGETS ___project_name___)
-install(DESTINATION bin)
+install(TARGETS ___project_name___ DESTINATION bin)
