@@ -1,7 +1,3 @@
 # templates
 
-My templates.
-
-## TODO
-
-- Conditionally remove `Bakefile.sh`s if using `templgrmgr` (for myself)
+Edwin's templates. Published to [github.com/fox-templates](https://github.com/fox-templates) by [templatemgr](https://github.com/fox-managers/templatemgr).
