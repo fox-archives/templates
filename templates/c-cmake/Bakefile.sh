@@ -9,5 +9,5 @@ task.build() {
 }
 
 task.run() {
-	( cd ./build && ./___project_name___ )
+	( cd ./build && ./{{ project_name }} )
 }
